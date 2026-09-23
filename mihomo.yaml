@@ -1,0 +1,2507 @@
+proxies:
+  - type: ss
+    server: 1.0.0.1
+    port: 443
+    cipher: aes-128-gcm
+    password: password
+    name: ♾️ 09-23 16:13 | 399.05 MB | 4 点重置 | Subs-Check-Pro [🇸🇬]
+  - name: 🇺🇸US²_1|0.3MB/s|6%|GPT⁺|YT-CN|X|Succeed
+    password: "null"
+    port: 443
+    server: 38.28.193.188
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_2|82KB/s|60%|GPT⁺|YT|X|Succeed
+    password: ""
+    port: 9002
+    server: 138.199.35.196
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: ""
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇺🇸US²_3|0.1MB/s|100%|GPT⁺|GM|YT|X
+    network: ws
+    port: 443
+    server: 172.67.198.209
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2240d8f8-898f-4988-8c08-ac724aa06ddb
+    ws-opts:
+      headers:
+        Host: 5-m9.56e2241d-b6f5-4eb7-8ed9-c89e0e22d6b4.kdns.fr
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/54.0.2840.71 Safari/537.36
+      path: /BzuntJ8qZN0TRKbC8TveMxJ0
+    xudp: true
+    packet-encoding: xudp
+    servername: 5-m9.56e2241d-b6f5-4eb7-8ed9-c89e0e22d6b4.kdns.fr
+  - name: 🇷🇴RO²_1|97KB/s|49%|GPT⁺|GM⁻|YT|X
+    port: 9002
+    server: 193.176.84.35
+    skip-cert-verify: true
+    sni: www.bing.com
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_4|0.2MB/s|64%|GPT⁺|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.207
+    skip-cert-verify: true
+    tfo: false
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_5|0.2MB/s|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.218
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - alpn:
+      - h3
+    auth_str: dongtaiwang.com
+    down: "1000"
+    name: 🇩🇪DE²_1|0.2MB/s|50%|YT-US|X
+    obfs: ""
+    port: 54177
+    protocol: udp
+    server: 5.83.129.90
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: "500"
+    udp: true
+    auth-str: dongtaiwang.com
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    down: 55 Mbps
+    name: 🇩🇪DE²_2|0.1MB/s|GPT⁺|YT-US|X|Succeed
+    obfs: ""
+    port: 26691
+    protocol: udp
+    server: 5.83.129.143
+    skip-cert-verify: true
+    sni: apple.com
+    sub-tag: K001-260618
+    type: hysteria
+    udp: true
+    up: 11 Mbps
+  - name: 🏴‍☠_1109.205.182.143:1088|0.1MB/s|X
+    password: ""
+    port: 1088
+    server: 109.205.182.143
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇩🇰DK²_1|99KB/s|73%|GPT⁺|X
+    port: 9443
+    server: 185.245.84.50
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_1|0.1MB/s|60%|GPT⁺|YT|X|History
+    port: 9002
+    server: 84.17.47.146
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_6|0.1MB/s|82%|GPT⁺|YT|X
+    password: None
+    port: 9002
+    server: 138.199.35.214
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_1|0.1MB/s|0%|X|History
+    password: ""
+    port: 11589
+    server: 165.225.113.220
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_2|96KB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    port: 9002
+    server: 138.199.35.219
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_7|79KB/s|57%|GPT⁺|YT|X|Succeed
+    password: ""
+    port: 9002
+    server: 138.199.35.203
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇻🇪VE²_1|0.1MB/s|0%|X|History
+    password: ""
+    port: 999
+    server: 190.97.236.130
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_8|83KB/s|75%|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.216
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_9|0.2MB/s|76%|GPT⁺|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.220
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇮🇳IN²_1|69KB/s
+    password: ""
+    port: 8080
+    server: 178.92.72.78
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_3|0.2MB/s|0%|GPT⁺|GM⁻-FR|YT-FR|X|History
+    port: 443
+    server: 149.102.245.65
+    skip-cert-verify: true
+    tfo: false
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_10|0.1MB/s|75%|GPT⁺|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.218
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇸🇬SG²_4|0.1MB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.212
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_11|74KB/s|71%|GPT⁺|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.209
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_5|0.2MB/s|0%|X
+    password: ""
+    port: 3128
+    server: 69.171.70.254
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_12|0.2MB/s|71%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.209
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_13|0.2MB/s|62%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.213
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇮🇩ID²_1|0.1MB/s|0%|X
+    password: ""
+    port: 8081
+    server: 163.61.55.243
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_6|0.1MB/s|0%|GPT⁺|YT-US|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.220
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇸🇬SG²_7|0.2MB/s|0%|GPT⁺|YT-US|X
+    password: "null"
+    port: 9002
+    server: 138.199.35.219
+    skip-cert-verify: true
+    sni: 138.199.35.219
+    tls: true
+    type: http
+    username: "null"
+    udp: true
+  - name: 🇺🇸US²_14|0.1MB/s|33%|GPT⁺|YT|X|History
+    password: "null"
+    port: 9002
+    server: 138.199.35.217
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_15|0.1MB/s|33%|GPT⁺|GM|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.206
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇺🇸US²_16|0.3MB/s|6%|GPT⁺|YT-CN|X|Succeed
+    port: 443
+    server: 38.28.193.188
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - delay: 1569
+    name: 🇺🇸US²_17|0.3MB/s|82%|GPT⁺|GM|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.214
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_18|0.2MB/s|50%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.200
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: safari
+    encryption: none
+    flow: xtls-rprx-vision
+    name: 🇩🇪DE²_3|73KB/s|0%|GPT⁺|GM⁻|YT|X
+    network: tcp
+    port: 5432
+    server: 193.58.121.224
+    tls: true
+    type: vless
+    udp: true
+    uuid: cc01f435-d561-4525-bf1f-7a9876d33207
+    xudp: true
+    packet-encoding: xudp
+  - name: 🇺🇸US²_19|0.2MB/s|67%|GPT⁺|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.215
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_20|0.1MB/s|33%|GPT⁺|GM|YT|X|Succeed
+    password: '""'
+    port: 9002
+    server: 138.199.35.217
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '""'
+    udp: true
+  - name: 🏴‍☠_2195.211.124.50:1080|0.1MB/s|X
+    password: ""
+    port: 1080
+    server: 195.211.124.50
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇳🇱NL²_2|0.1MB/s|60%|GPT⁺|GM⁻|YT|X|History
+    password: "null"
+    port: 9002
+    server: 84.17.47.150
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_21|70KB/s|57%|GPT⁺|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.198
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_22|0.2MB/s|62%|GPT⁺|GM|YT|X|History
+    password: "null"
+    port: 9002
+    server: 138.199.35.202
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - client-fingerprint: chrome
+    name: 🇫🇷FR²_1|76KB/s|36%|GPT⁺|YT-IR|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 188.114.97.7
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4X Build/N2G47H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile
+          Safari/537.36
+      path: /assignment
+  - client-fingerprint: chrome
+    name: 🇸🇬SG²_8|0.3MB/s|0%|GPT⁺|YT-IR|X
+    network: ws
+    password: humanity
+    port: 443
+    server: www.ignitelimit.com
+    skip-cert-verify: false
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Linux; Android 7.0; Moto G (5) Build/NPPS25.137-93-14)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /assignment
+    sni: www.ignitelimit.com
+  - name: 🇺🇸US²_23|0.3MB/s|55%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.208
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_3|78KB/s|60%|GPT⁺|GM⁻|YT|X|History
+    port: 9002
+    server: 84.17.47.150
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇸🇬SG²_9|0.1MB/s|0%|GPT⁺|YT-IR|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 104.18.152.113
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile
+          Safari/537.36
+      path: /assignment
+  - name: 🇸🇬SG²_10|0.1MB/s|0%|GPT⁺|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.211
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_11|0.2MB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    port: 9002
+    server: 138.199.35.206
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇫🇷FR²_2|86KB/s|36%|GPT⁺|YT-IR|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 104.18.152.246
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /assignment
+  - name: 🇺🇸US²_24|0.1MB/s|6%|GPT⁺|YT|X|Succeed
+    port: 443
+    server: fan.226278.xyz
+    sni: fan.226278.xyz
+    tls: true
+    type: http
+    udp: true
+  - name: 🏴‍☠_3🏴‍☠_5Auto-107.167.18.122:443-SOCKS5|0.1MB/s|X|History
+    port: 443
+    server: 107.167.18.122
+    type: socks5
+    udp: true
+  - name: 🇯🇵JP²_1|0.1MB/s|X|History
+    password: ""
+    port: 1080
+    server: 103.75.118.84
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_25|0.1MB/s|55%|GPT⁺|YT|X
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.208
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇸🇬SG²_12|74KB/s|0%|GPT⁺|YT-US|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 104.18.152.159
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /assignment
+  - name: 🇺🇸US²_26|0.1MB/s|64%|GPT⁺|GM|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.207
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_27|67KB/s|67%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.215
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🏴‍☠_4144.124.251.24:10811|68KB/s|X
+    password: ""
+    port: 10811
+    server: 144.124.251.24
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇳🇱NL²_4|0.1MB/s|60%|GPT⁺|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 84.17.47.146
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_28|0.1MB/s|67%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.211
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇭🇰HK²_1|0.2MB/s|0%|X
+    password: ""
+    port: 8089
+    server: 43.99.60.244
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_29|0.2MB/s|75%|GPT⁺|GM|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.218
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇮🇳IN²_2|0.2MB/s|0%|X|History
+    password: ""
+    port: 8080
+    server: 178.92.72.94
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇿🇦ZA²_1|71KB/s|0%|X
+    password: aa
+    port: 89
+    server: 160.124.240.188
+    type: http
+    udp: true
+    username: aa
+  - name: 🏴‍☠_5103.36.9.9:8181|71KB/s
+    password: ""
+    port: 8181
+    server: 103.36.9.9
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - down: ""
+    fingerprint: ""
+    name: 🇺🇸US²_30|0.2MB/s|0%|GPT⁺|YT-AE|X
+    obfs: ""
+    obfs-password: ""
+    password: a6cf39b3-0424-42a2-abf7-b426da69b1a4
+    port: 443
+    server: de.i-love-russia.online
+    skip-cert-verify: false
+    sni: de.i-love-russia.online
+    type: hysteria2
+    up: ""
+    udp: true
+  - name: 🏴‍☠_6🏴‍☠_20219.99.219.56:1080|0.3MB/s|GM-JP|YT-JP|X|History
+    password: ""
+    port: 1080
+    server: 219.99.219.56
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - client-fingerprint: qq
+    encryption: none
+    name: 🇸🇬SG²_13|64KB/s|0%|GPT⁺|YT-GB|X
+    network: tcp
+    port: 25535
+    reality-opts:
+      public-key: Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4
+      short-id: "7642ce57308852e7"
+    server: 196.245.52.147
+    tls: true
+    type: vless
+    udp: true
+    uuid: c379d8e4-c67d-42ec-a3ed-ca99d1ad0546
+    xudp: true
+    packet-encoding: xudp
+    servername: www.microsoft.com
+  - name: 🇸🇬SG²_14|0.2MB/s|0%|GPT⁺|GM⁻-NL|YT-NL|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 84.17.47.147
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_31|0.2MB/s|50%|GPT⁺|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.210
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇳🇱NL²_5|0.1MB/s|60%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 84.17.47.147
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇫🇷FR²_3|80KB/s|36%|GPT⁺|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 104.18.152.149
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko)
+          Slackware/Chrome/12.0.742.100 Safari/534.30
+      path: /assignment
+  - name: 🇳🇱NL²_6|0.1MB/s|60%|GPT⁺|YT|X|History
+    port: 9002
+    server: 84.17.47.148
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_32|0.2MB/s|33%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.206
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_15|0.2MB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.210
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_16|0.2MB/s|0%|GPT⁺|YT-US|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.198
+    skip-cert-verify: true
+    sni: 138.199.35.198
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_33|0.3MB/s|75%|GPT⁺|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.218
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇫🇷FR²_4|80KB/s|0%|GPT⁺|YT-US|X
+    password: github.com/Alvin9999-newpac/fanqiang
+    port: 60111
+    server: 62.210.7.139
+    skip-cert-verify: true
+    sni: css.rbxcdn.com
+    type: hysteria2
+    udp: true
+  - alpn:
+      - h3
+    auth: ZG9uZ3RhaXdhbmcuY29t
+    auth-str: dongtaiwang.com
+    down: 1000 Mbps
+    down-speed: 1000
+    name: 🇩🇪DE²_4|69KB/s|50%|GPT⁺|YT-US|X|History
+    port: 20088
+    protocol: udp
+    server: 5.83.129.153
+    skip-cert-verify: true
+    sni: apple.com
+    tfo: false
+    type: hysteria
+    up: 500 Mbps
+    up-speed: 500
+    udp: true
+    fast-open: false
+  - name: 🇺🇸US²_34|0.1MB/s|33%|GPT⁺|GM|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.206
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: "null"
+    udp: true
+  - name: 🇺🇸US²_35|0.2MB/s|67%|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.215
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_36|0.2MB/s|60%|GPT⁺|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.196
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - alpn:
+      - h3
+    auth: ZG9uZ3RhaXdhbmcuY29t
+    auth-str: dongtaiwang.com
+    down: 1000 Mbps
+    down-speed: 1000
+    name: 🇩🇪DE²_5|0.1MB/s|50%|GPT⁺|YT-US|X|History
+    port: 54177
+    protocol: udp
+    server: 5.83.129.90
+    skip-cert-verify: true
+    sni: apple.com
+    tfo: false
+    type: hysteria
+    up: 500 Mbps
+    up-speed: 500
+    udp: true
+    fast-open: false
+  - client-fingerprint: chrome
+    name: 🇫🇷FR²_5|79KB/s|36%|GPT⁺|YT-IR|X|Succeed
+    network: ws
+    password: humanity
+    port: 443
+    server: www.speedtest.org
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/66.0.3359.117 Safari/537.36
+      path: /assignment
+  - name: 🇺🇸US²_37|0.1MB/s|64%|GPT⁺|GM|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.195
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: 🇫🇷FR²_6|0.1MB/s|36%|GPT⁺|YT-US|X|History
+    network: ws
+    password: humanity
+    port: 443
+    server: 104.18.1.249
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.110 Safari/537.36
+      path: /assignment
+  - name: 🇸🇬SG²_17|0.2MB/s|0%|GPT⁺|YT-US|X|Succeed
+    password: ""
+    port: 9002
+    server: 138.199.35.208
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: ""
+    udp: true
+  - alpn:
+      - h2
+    client-fingerprint: chrome
+    encryption: none
+    name: 🇫🇮FI²_1|0.1MB/s|5%|X|History
+    network: ws
+    port: 443
+    server: a2.arshia-nova.ir
+    tls: true
+    type: vless
+    udp: true
+    uuid: 1fac5e18-2ca8-4626-c299-1f3f21c6b55e
+    ws-opts:
+      headers:
+        Host: c12.com
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/48.0.2564.116 Safari/537.36
+      path: /
+    xudp: true
+    packet-encoding: xudp
+    servername: ssl.fastly.com
+  - name: 🇩🇪DE²_6|0.1MB/s|40%|GPT⁺|GM⁻|YT|X|History
+    port: 443
+    server: 149.36.50.129
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_38|97KB/s|6%|GPT⁺|YT-CN|X|Succeed
+    port: 443
+    server: 38.28.193.1
+    skip-cert-verify: true
+    sni: 38.28.193.1
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_39|77KB/s|55%|GPT⁺|GM|YT|X|Succeed
+    password: '""'
+    port: 9002
+    server: 138.199.35.208
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '""'
+    udp: true
+  - name: 🇺🇸US²_40|0.2MB/s|57%|GPT⁺|GM|YT|X|Succeed
+    port: 9002
+    server: 138.199.35.198
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🏴‍☠_789.23.123.250:1080|0.1MB/s|X
+    password: ""
+    port: 1080
+    server: 89.23.123.250
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇹🇭TH²_1|0.1MB/s|X|History
+    password: ""
+    port: 8080
+    server: 125.24.152.224
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_18|98KB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.201
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇦🇸Local ISP_1|81KB/s|X
+    port: 7890
+    server: 121.29.195.232
+    tls: false
+    type: http
+    udp: true
+  - name: 🇺🇸US²_41|0.2MB/s|33%|GPT⁺|GM|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.217
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_42|0.2MB/s|78%|GPT⁺|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.199
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇺🇸US²_43|0.1MB/s|50%|GPT⁺|GM|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.212
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_44|64KB/s|43%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.204
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_7|79KB/s|60%|GPT⁺|GM⁻|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 84.17.47.148
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🏴‍☠_8160.187.221.78:5050|0.1MB/s|X
+    password: ""
+    port: 5050
+    server: 160.187.221.78
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_45|0.1MB/s|28%|X
+    password: ""
+    port: 10808
+    server: 59.66.128.29
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇳🇱NL²_8|0.1MB/s|67%|GPT⁺|GM⁻|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 84.17.47.125
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_19|0.2MB/s|X
+    password: ""
+    port: 8080
+    server: 45.194.41.231
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_20|83KB/s|0%|GPT⁺|X|Succeed
+    port: 9002
+    server: 138.199.35.205
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_21|0.2MB/s|0%|GPT⁺|YT-US|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.196
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇭🇰HK²_2|95KB/s|0%|GM|YT|X|Succeed
+    port: 443
+    server: 183.179.162.50
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_46|67KB/s|78%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.199
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_9|0.1MB/s|60%|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 84.17.47.146
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_47|0.1MB/s|62%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.202
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_22|0.4MB/s|0%|GPT⁺|YT-CN|X|Succeed
+    password: e4b72b531a2d10900519
+    port: 443
+    server: 146.70.29.45
+    skip-cert-verify: true
+    tfo: false
+    tls: true
+    type: http
+    username: testuser1
+    udp: true
+  - name: 🇳🇱NL²_10|0.2MB/s|67%|GPT⁺|GM⁻|YT|X|Succeed
+    port: 9002
+    server: 84.17.47.125
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_48|0.2MB/s|71%|GPT⁺|GM|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.209
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: "null"
+    udp: true
+  - name: 🇸🇬SG²_23|0.3MB/s|X
+    password: ""
+    port: 80
+    server: 43.156.120.151
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇿UZ²_1|0.2MB/s|100%|X|Succeed
+    password: ""
+    port: 3128
+    server: 193.104.179.115
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_49|0.2MB/s|64%|GPT⁺|GM|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.195
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇸🇬SG²_24|86KB/s|0%|GPT⁺|YT-RU|X|Succeed
+    network: xhttp
+    port: 9443
+    server: 31.76.226.100
+    tls: true
+    type: vless
+    udp: true
+    uuid: d9d0f208-d582-41d5-bb7b-742671402810
+    xhttp-opts:
+      host: hub-ee-01.hanvpn.cc
+      mode: auto
+      path: /ee01-xhttp-8e47a/
+    xudp: true
+    packet-encoding: xudp
+    servername: hub-ee-01.hanvpn.cc
+  - name: 🇮🇹IT²_1|0.2MB/s|2%|GPT⁺|YT|X|History
+    port: 443
+    server: 109.116.41.154
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇸🇬SG²_25|0.4MB/s|0%|GPT⁺|GM-US|YT-US|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.218
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - client-fingerprint: chrome
+    name: 🇫🇷FR²_7|91KB/s|100%|GPT⁺|YT-US|X|Succeed
+    network: ws
+    password: humanity
+    port: 443
+    server: 176.97.66.175
+    skip-cert-verify: false
+    sni: www.ignitelimit.com
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /assignment
+  - name: 🇺🇸US²_50|0.1MB/s|8%|GPT⁺|GM-TW|YT-TW|X
+    password: ""
+    port: 443
+    server: 107.167.18.122
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_51|86KB/s|61%|GPT⁺|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.219
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🏴‍☠_9A🟢🇬🇷res[🎬🤖📺🎭]_dokng.com_bf43543c|0.1MB/s|X
+    password: ""
+    port: 1080
+    server: 83.147.216.208
+    type: socks5
+    udp: true
+    username: ""
+  - name: 🇺🇸US²_52|0.3MB/s|75%|GPT⁺|YT|X|History
+    password: "null"
+    port: 9002
+    server: 138.199.35.197
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🏴‍☠_10111.119.162.248:10932|68KB/s|YT-DE|X
+    password: ""
+    port: 10932
+    server: 111.119.162.248
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇸🇬SG²_26|0.1MB/s|0%|GPT⁺|YT-US|X|Succeed
+    password: '"null"'
+    port: 443
+    server: 38.28.193.188
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇸🇬SG²_27|0.2MB/s|X
+    password: ""
+    port: 2021
+    server: 103.166.11.26
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_53|0.1MB/s|0%|X
+    password: ""
+    port: 8080
+    server: 150.241.245.131
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_54|0.1MB/s|64%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.207
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_55|0.1MB/s|75%|GPT⁺|GM|YT|X
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.197
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_56|0.2MB/s|62%|GPT⁺|GM|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.213
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_57|0.2MB/s|64%|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.207
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_58|0.4MB/s|33%|GPT⁺|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.206
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_59|0.2MB/s|67%|GPT⁺|GM|YT|X|Succeed
+    password: ""
+    port: 9002
+    server: 138.199.35.211
+    skip-cert-verify: true
+    tls: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🏴‍☠_1143.135.145.201:10808|0.2MB/s|X
+    password: ""
+    port: 10808
+    server: 43.135.145.201
+    skip-cert-verify: true
+    type: socks5
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_60|0.2MB/s|78%|GPT⁺|YT|X|History
+    port: 9002
+    server: 138.199.35.199
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_11|0.2MB/s|60%|GPT⁺|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 84.17.47.148
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🇸🇬SG²_28|0.1MB/s|0%|X
+    port: 443
+    server: 107.167.18.122
+    tls: false
+    type: http
+    udp: true
+  - name: 🇺🇸US²_61|0.1MB/s|33%|GPT⁺|GM|YT|X|History
+    password: None
+    port: 9002
+    server: 138.199.35.217
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇳🇱NL²_12|0.1MB/s|60%|GPT⁺|YT|X|History
+    password: None
+    port: 9002
+    server: 84.17.47.148
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_62|0.1MB/s|50%|GPT⁺|YT|X|Succeed
+    password: "null"
+    port: 9002
+    server: 138.199.35.212
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🏴‍☠_12202.47.188.189:1111|0.6MB/s|X
+    password: ""
+    port: 1111
+    server: 202.47.188.189
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🏴‍☠_1352.254.114.3:8443|0.1MB/s|X
+    password: ""
+    port: 8443
+    server: 52.254.114.3
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🇺🇸US²_63|0.4MB/s|60%|GPT⁺|YT|X|Succeed
+    password: '"None"'
+    port: 9002
+    server: 138.199.35.201
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_64|0.2MB/s|75%|GPT⁺|YT|X|Succeed
+    password: None
+    port: 9002
+    server: 138.199.35.216
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+  - name: 🇺🇸US²_65|0.2MB/s|50%|GPT⁺|GM|YT|X|History
+    password: "null"
+    port: 9002
+    server: 138.199.35.210
+    skip-cert-verify: true
+    tls: true
+    type: http
+    udp: true
+    username: "null"
+  - name: 🇺🇸US²_66|0.2MB/s|0%|X|History
+    password: gs4BXwT6SW
+    port: 10988
+    server: 154.26.192.123
+    tls: false
+    type: http
+    username: fQ67Dpe5dU
+    udp: true
+  - client-fingerprint: edge
+    encryption: none
+    name: 🇸🇬SG²_29|0.2MB/s|0%|GPT⁺|YT-IR|X
+    network: xhttp
+    port: 9443
+    server: 195.74.90.115
+    tls: true
+    type: vless
+    udp: true
+    uuid: d9d0f208-d582-41d5-bb7b-742671402810
+    xhttp-opts:
+      host: hub-fi-02.hanvpn.cc
+      path: /fi02-xhttp-8e47a/
+    xudp: true
+    packet-encoding: xudp
+    servername: hub-fi-02.hanvpn.cc
+  - name: 🇺🇸US²_67|0.1MB/s|62%|GPT⁺|GM|YT|X|Succeed
+    password: '"null"'
+    port: 9002
+    server: 138.199.35.202
+    skip-cert-verify: true
+    tls: true
+    type: http
+    uuid: '"null"'
+    udp: true
+  - name: 🏴‍☠_14160.19.146.210:2022|0.1MB/s|X
+    password: ""
+    port: 2022
+    server: 160.19.146.210
+    skip-cert-verify: true
+    type: http
+    username: ""
+    udp: true
+  - name: 🏴‍☠_15🇸🇬SG²_12|78KB/s|History
+    port: 8080
+    server: 223.207.103.175
+    tls: false
+    type: http
+    udp: true
+log-level: error
+port: 7890
+socks-port: 7891
+mixed-port: 10801
+allow-lan: true
+authentication:
+  - sinspired:sinspired
+skip-auth-prefixes:
+  - 127.0.0.1/8
+  - ::1/128
+find-process-mode: strict
+mode: rule
+geox-url:
+  geoip: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@latest/geoip.dat
+  geosite: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@latest/geosite.dat
+  mmdb: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@latest/geoip.metadb
+geo-auto-update: false
+geo-update-interval: 72
+ipv6: true
+unified-delay: true
+tcp-concurrent: true
+hosts:
+  sub.store: 127.0.0.1
+  subs.check: 127.0.0.1
+  dns.google: 8.8.8.8
+  dns64.dns.google: 2001:4860:4860::6464
+  cloudflare-dns.com: 104.16.249.249
+  1dot1dot1dot1.cloudflare-dns.com: 1.1.1.1
+  one.one.one.one: 1.1.1.1
+  dns.alidns.com: 223.5.5.5
+  doh.pub: 1.12.12.12
+  dot.pub: 1.12.12.12
+  doh.360.cn: 23.6.48.18
+  dot.360.cn: 101.198.198.198
+  dns.twnic.tw: 101.101.101.101
+  ordns.he.net: 74.82.42.42
+profile:
+  store-selected: true
+  store-fake-ip: true
+tun:
+  enable: false
+  stack: system
+  dns-hijack:
+    - 0.0.0.0:53
+  auto-redirect: false
+  route-address-set:
+    - google_ip
+  route-exclude-address-set:
+    - lan
+    - private
+    - cn_ip
+  route-address:
+    - 0.0.0.0/1
+    - 128.0.0.0/1
+    - ::/1
+    - 8000::/1
+sniffer:
+  enable: true
+  override-destination: false
+  sniff:
+    QUIC: null
+    TLS: null
+    HTTP:
+      ports:
+        - 80
+        - 8080-8880
+      override-destination: true
+  force-domain:
+    - +.v2ex.com
+  port-whitelist:
+    - "80"
+    - "443"
+ntp:
+  enable: false
+  server: time.apple.com
+  port: 123
+  interval: 30
+  dialer-proxy: ""
+  write-to-system: false
+dns:
+  enable: true
+  cache-algorithm: arc
+  listen: 0.0.0.0:1053
+  ipv6: true
+  use-hosts: true
+  use-system-hosts: true
+  respect-rules: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist
+  fake-ip-filter:
+    - "*.local"
+    - "*.lan"
+    - "*.localdomain"
+    - "*.home.arpa"
+    - "*.test"
+    - "*.invalid"
+    - "*.example"
+    - localhost.ptlogin2.qq.com
+    - time.*.com
+    - ntp.*.com
+    - +.push.apple.com
+    - +.miwifi.com
+    - +.market.xiaomi.com
+    - geosite:cn
+    - geosite:private
+  prefer-h3: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+  default-nameserver:
+    - 114.114.114.114
+    - 8.8.8.8
+    - tls://1.12.12.12:853
+    - tls://223.5.5.5:853
+    - system
+  nameserver-policy:
+    +.local: system
+    +.upos-sz-mirrorali.bilivideo.com: https://dns.alidns.com/dns-query
+    +.upos-sz-mirrorali?.bilivideo.com: https://dns.alidns.com/dns-query
+    +.upos-sz-mirrorali??.bilivideo.com: https://dns.alidns.com/dns-query
+    +.upos-sz-mirrorbos.bilivideo.com: 180.76.76.76
+    +.upos-sz-mirrorcos.bilivideo.com: https://doh.pub/dns-query
+    +.upos-sz-mirrorcos?.bilivideo.com: https://doh.pub/dns-query
+    +.upos-sz-mirrorcos??.bilivideo.com: https://doh.pub/dns-query
+    +.upos-sz-upcdnbd??.bilivideo.com: 180.76.76.76
+    +.upos-sz-upcdntx.bilivideo.com: https://doh.pub/dns-query
+    +.uc.cn: quic://dns.alidns.com:853
+    +.alibaba.com: quic://dns.alidns.com:853
+    +.alicdn.com: quic://dns.alidns.com:853
+    +.ialicdn.com: quic://dns.alidns.com:853
+    +.myalicdn.com: quic://dns.alidns.com:853
+    +.alidns.com: quic://dns.alidns.com:853
+    +.aliimg.com: quic://dns.alidns.com:853
+    +.aliyun.com: quic://dns.alidns.com:853
+    +.aliyuncs.com: quic://dns.alidns.com:853
+    +.alikunlun.com: quic://dns.alidns.com:853
+    +.alikunlun.net: quic://dns.alidns.com:853
+    +.cdngslb.com: quic://dns.alidns.com:853
+    +.alipay.com: quic://dns.alidns.com:853
+    +.alipay.cn: quic://dns.alidns.com:853
+    +.alipay.com.cn: quic://dns.alidns.com:853
+    +.alipayobjects.com: quic://dns.alidns.com:853
+    +.alibaba-inc.com: quic://dns.alidns.com:853
+    +.alibabausercontent.com: quic://dns.alidns.com:853
+    +.alibabadns.com: quic://dns.alidns.com:853
+    +.alibabachengdun.com: quic://dns.alidns.com:853
+    +.alicloudccp.com: quic://dns.alidns.com:853
+    +.alipan.com: quic://dns.alidns.com:853
+    +.aliyundrive.com: quic://dns.alidns.com:853
+    +.aliyundrive.net: quic://dns.alidns.com:853
+    +.cainiao.com: quic://dns.alidns.com:853
+    +.cainiao.com.cn: quic://dns.alidns.com:853
+    +.cainiaoyizhan.com: quic://dns.alidns.com:853
+    +.guoguo-app.com: quic://dns.alidns.com:853
+    +.etao.com: quic://dns.alidns.com:853
+    +.yitao.com: quic://dns.alidns.com:853
+    +.1688.com: quic://dns.alidns.com:853
+    +.amap.com: quic://dns.alidns.com:853
+    +.gaode.com: quic://dns.alidns.com:853
+    +.autonavi.com: quic://dns.alidns.com:853
+    +.dingtalk.com: quic://dns.alidns.com:853
+    +.mxhichina.com: quic://dns.alidns.com:853
+    +.soku.com: quic://dns.alidns.com:853
+    +.tb.cn: quic://dns.alidns.com:853
+    +.taobao.com: quic://dns.alidns.com:853
+    +.taobaocdn.com: quic://dns.alidns.com:853
+    +.tbcache.com: quic://dns.alidns.com:853
+    +.tmall.com: quic://dns.alidns.com:853
+    +.goofish.com: quic://dns.alidns.com:853
+    +.xiami.com: quic://dns.alidns.com:853
+    +.xiami.net: quic://dns.alidns.com:853
+    +.ykimg.com: quic://dns.alidns.com:853
+    +.youku.com: quic://dns.alidns.com:853
+    +.tudou.com: quic://dns.alidns.com:853
+    +.cibntv.net: quic://dns.alidns.com:853
+    +.ele.me: quic://dns.alidns.com:853
+    +.elemecdn.com: quic://dns.alidns.com:853
+    +.feizhu.com: quic://dns.alidns.com:853
+    +.taopiaopiao.com: quic://dns.alidns.com:853
+    +.fliggy.com: quic://dns.alidns.com:853
+    +.koubei.com: quic://dns.alidns.com:853
+    +.mybank.cn: quic://dns.alidns.com:853
+    +.mmstat.com: quic://dns.alidns.com:853
+    +.uczzd.cn: quic://dns.alidns.com:853
+    +.iconfont.cn: quic://dns.alidns.com:853
+    +.freshhema.com: quic://dns.alidns.com:853
+    +.hemamax.com: quic://dns.alidns.com:853
+    +.hemaos.com: quic://dns.alidns.com:853
+    +.hemashare.cn: quic://dns.alidns.com:853
+    +.shyhhema.com: quic://dns.alidns.com:853
+    +.sm.cn: quic://dns.alidns.com:853
+    +.npmmirror.com: quic://dns.alidns.com:853
+    +.alios.cn: quic://dns.alidns.com:853
+    +.wandoujia.com: quic://dns.alidns.com:853
+    +.aligames.com: quic://dns.alidns.com:853
+    +.25pp.com: quic://dns.alidns.com:853
+    +.aliapp.org: quic://dns.alidns.com:853
+    +.tanx.com: quic://dns.alidns.com:853
+    +.hellobike.com: quic://dns.alidns.com:853
+    +.hichina.com: quic://dns.alidns.com:853
+    +.yunos.com: quic://dns.alidns.com:853
+    +.qcloud.com: https://doh.pub/dns-query
+    +.gtimg.cn: https://doh.pub/dns-query
+    +.gtimg.com: https://doh.pub/dns-query
+    +.gtimg.com.cn: https://doh.pub/dns-query
+    +.gdtimg.com: https://doh.pub/dns-query
+    +.idqqimg.com: https://doh.pub/dns-query
+    +.udqqimg.com: https://doh.pub/dns-query
+    +.igamecj.com: https://doh.pub/dns-query
+    +.myapp.com: https://doh.pub/dns-query
+    +.myqcloud.com: https://doh.pub/dns-query
+    +.dnspod.com: https://doh.pub/dns-query
+    +.qpic.cn: https://doh.pub/dns-query
+    +.qlogo.cn: https://doh.pub/dns-query
+    +.qq.com: https://doh.pub/dns-query
+    +.qq.com.cn: https://doh.pub/dns-query
+    +.qqmail.com: https://doh.pub/dns-query
+    +.qzone.com: https://doh.pub/dns-query
+    +.tencent-cloud.net: https://doh.pub/dns-query
+    +.tencent-cloud.com: https://doh.pub/dns-query
+    +.tencent.com: https://doh.pub/dns-query
+    +.tencent.com.cn: https://doh.pub/dns-query
+    +.tencentmusic.com: https://doh.pub/dns-query
+    +.weixinbridge.com: https://doh.pub/dns-query
+    +.weixin.com: https://doh.pub/dns-query
+    +.weiyun.com: https://doh.pub/dns-query
+    +.soso.com: https://doh.pub/dns-query
+    +.sogo.com: https://doh.pub/dns-query
+    +.sogou.com: https://doh.pub/dns-query
+    +.sogoucdn.com: https://doh.pub/dns-query
+    +.roblox.cn: https://doh.pub/dns-query
+    +.robloxdev.cn: https://doh.pub/dns-query
+    +.wegame.com: https://doh.pub/dns-query
+    +.wegame.com.cn: https://doh.pub/dns-query
+    +.wegameplus.com: https://doh.pub/dns-query
+    +.cdn-go.cn: https://doh.pub/dns-query
+    +.tencentcs.cn: https://doh.pub/dns-query
+    +.qcloudimg.com: https://doh.pub/dns-query
+    +.dnspod.cn: https://doh.pub/dns-query
+    +.anticheatexpert.com: https://doh.pub/dns-query
+    +.qlivecdn.com: https://doh.pub/dns-query
+    +.tcdnlive.com: https://doh.pub/dns-query
+    +.dnsv1.com: https://doh.pub/dns-query
+    +.smtcdns.net: https://doh.pub/dns-query
+    +.coding.net: https://doh.pub/dns-query
+    +.codehub.cn: https://doh.pub/dns-query
+    +.bilibili.cn: https://doh.pub/dns-query
+    +.bilibili.com: https://doh.pub/dns-query
+    +.acgvideo.com: https://doh.pub/dns-query
+    +.bilivideo.com: https://doh.pub/dns-query
+    +.bilivideo.cn: https://doh.pub/dns-query
+    +.bilivideo.net: https://doh.pub/dns-query
+    +.hdslb.com: https://doh.pub/dns-query
+    +.biliimg.com: https://doh.pub/dns-query
+    +.biliapi.com: https://doh.pub/dns-query
+    +.biliapi.net: https://doh.pub/dns-query
+    +.biligame.com: https://doh.pub/dns-query
+    +.biligame.net: https://doh.pub/dns-query
+    +.bilicomic.com: https://doh.pub/dns-query
+    +.bilicomics.com: https://doh.pub/dns-query
+    +.bilicdn1.com: https://doh.pub/dns-query
+    +.mi.com: https://doh.pub/dns-query
+    +.duokan.com: https://doh.pub/dns-query
+    +.mi-img.com: https://doh.pub/dns-query
+    +.mi-idc.com: https://doh.pub/dns-query
+    +.xiaoaisound.com: https://doh.pub/dns-query
+    +.xiaomixiaoai.com: https://doh.pub/dns-query
+    +.mi-fds.com: https://doh.pub/dns-query
+    +.mifile.cn: https://doh.pub/dns-query
+    +.mijia.tech: https://doh.pub/dns-query
+    +.miui.com: https://doh.pub/dns-query
+    +.xiaomi.com: https://doh.pub/dns-query
+    +.xiaomi.cn: https://doh.pub/dns-query
+    +.xiaomi.net: https://doh.pub/dns-query
+    +.xiaomiev.com: https://doh.pub/dns-query
+    +.xiaomiyoupin.com: https://doh.pub/dns-query
+    +.bytedance.com: 180.184.2.2
+    +.bytecdn.cn: 180.184.2.2
+    +.volccdn.com: 180.184.2.2
+    +.toutiaoimg.com: 180.184.2.2
+    +.toutiaoimg.cn: 180.184.2.2
+    +.toutiaostatic.com: 180.184.2.2
+    +.toutiaovod.com: 180.184.2.2
+    +.toutiaocloud.com: 180.184.2.2
+    +.toutiaopage.com: 180.184.2.2
+    +.feiliao.com: 180.184.2.2
+    +.iesdouyin.com: 180.184.2.2
+    +.pstatp.com: 180.184.2.2
+    +.snssdk.com: 180.184.2.2
+    +.bytegoofy.com: 180.184.2.2
+    +.toutiao.com: 180.184.2.2
+    +.feishu.cn: 180.184.2.2
+    +.feishu.net: 180.184.2.2
+    +.feishucdn.com: 180.184.2.2
+    +.feishupkg.com: 180.184.2.2
+    +.douyin.com: 180.184.2.2
+    +.douyinpic.com: 180.184.2.2
+    +.douyinstatic.com: 180.184.2.2
+    +.douyincdn.com: 180.184.2.2
+    +.douyinliving.com: 180.184.2.2
+    +.douyinvod.com: 180.184.2.2
+    +.huoshan.com: 180.184.2.2
+    +.huoshanstatic.com: 180.184.2.2
+    +.huoshanzhibo.com: 180.184.2.2
+    +.ixigua.com: 180.184.2.2
+    +.ixiguavideo.com: 180.184.2.2
+    +.ixgvideo.com: 180.184.2.2
+    +.byted-static.com: 180.184.2.2
+    +.volces.com: 180.184.2.2
+    +.baike.com: 180.184.2.2
+    +.zjcdn.com: 180.184.2.2
+    +.zijieapi.com: 180.184.2.2
+    +.feelgood.cn: 180.184.2.2
+    +.bytetcc.com: 180.184.2.2
+    +.bytednsdoc.com: 180.184.2.2
+    +.byteimg.com: 180.184.2.2
+    +.byteacctimg.com: 180.184.2.2
+    +.ibytedapm.com: 180.184.2.2
+    +.oceanengine.com: 180.184.2.2
+    +.edge-byted.com: 180.184.2.2
+    +.volcvideo.com: 180.184.2.2
+    +.91.com: 180.76.76.76
+    +.hao123.com: 180.76.76.76
+    +.baidu.cn: 180.76.76.76
+    +.baidu.com: 180.76.76.76
+    +.iqiyi.com: 180.76.76.76
+    +.iqiyipic.com: 180.76.76.76
+    +.baidubce.com: 180.76.76.76
+    +.bcelive.com: 180.76.76.76
+    +.baiducontent.com: 180.76.76.76
+    +.baidustatic.com: 180.76.76.76
+    +.bdstatic.com: 180.76.76.76
+    +.bdimg.com: 180.76.76.76
+    +.bcebos.com: 180.76.76.76
+    +.baidupcs.com: 180.76.76.76
+    +.baidubcr.com: 180.76.76.76
+    +.yunjiasu-cdn.net: 180.76.76.76
+    +.tieba.com: 180.76.76.76
+    +.xiaodutv.com: 180.76.76.76
+    +.shifen.com: 180.76.76.76
+    +.jomodns.com: 180.76.76.76
+    +.bdydns.com: 180.76.76.76
+    +.jomoxc.com: 180.76.76.76
+    +.duapp.com: 180.76.76.76
+    +.antpcdn.com: 180.76.76.76
+    +.qhimg.com: https://doh.360.cn/dns-query
+    +.qhimgs.com: https://doh.360.cn/dns-query
+    +.qhimgs?.com: https://doh.360.cn/dns-query
+    +.qhres.com: https://doh.360.cn/dns-query
+    +.qhres2.com: https://doh.360.cn/dns-query
+    +.qhmsg.com: https://doh.360.cn/dns-query
+    +.qhstatic.com: https://doh.360.cn/dns-query
+    +.qhupdate.com: https://doh.360.cn/dns-query
+    +.qihucdn.com: https://doh.360.cn/dns-query
+    +.360.com: https://doh.360.cn/dns-query
+    +.360.cn: https://doh.360.cn/dns-query
+    +.360.net: https://doh.360.cn/dns-query
+    +.360safe.com: https://doh.360.cn/dns-query
+    +.360tpcdn.com: https://doh.360.cn/dns-query
+    +.360os.com: https://doh.360.cn/dns-query
+    +.360webcache.com: https://doh.360.cn/dns-query
+    +.360kuai.com: https://doh.360.cn/dns-query
+    +.so.com: https://doh.360.cn/dns-query
+    +.haosou.com: https://doh.360.cn/dns-query
+    +.yunpan.cn: https://doh.360.cn/dns-query
+    +.yunpan.com: https://doh.360.cn/dns-query
+    +.yunpan.com.cn: https://doh.360.cn/dns-query
+    +.qh-cdn.com: https://doh.360.cn/dns-query
+    +.baomitu.com: https://doh.360.cn/dns-query
+    +.qiku.com: https://doh.360.cn/dns-query
+    +.gov.cn: 1.2.4.8
+    +.pccw.com: dns1.pccw.com
+    +.1010.com.hk: dns1.pccw.com
+    +.hkcsl.com: dns1.pccw.com
+    +.theclub.com.hk: dns1.pccw.com
+    +.now.com: dns2.pccw.com
+    +.nowe.com: dns2.pccw.com
+    +.now-tv.com: dns2.pccw.com
+    +.moov.hk: dns3.pccw.com
+    +.viu.com: dns3.pccw.com
+    +.viu.tv: dns3.pccw.com
+    +.hkcable.com.hk: dns1.hkcable.com.hk
+    +.i-cable.com: dns2.hkcable.com.hk
+    +.cabletv.com.hk: dns2.hkcable.com.hk
+    +.hk.kddi.com: apple.kdd.net.hk
+    +.cht.com.tw: https://dns.hinet.net/dns-query
+    +.hinet.net: https://dns.hinet.net/dns-query
+    +.emome.net: https://dns.hinet.net/dns-query
+    +.tw: https://dns.twnic.tw/dns-query
+    +.taipei: https://dns.twnic.tw/dns-query
+    +.he.net: https://ordns.he.net/dns-query
+    geosite:cn,private,apple:
+      - quic://223.5.5.5:853
+      - quic://223.6.6.6:853
+      - https://223.5.5.5/dns-query
+      - https://223.6.6.6/dns-query
+      - https://doh.pub/dns-query#h3=true
+      - system
+    geosite:gfw:
+      - https://cloudflare-dns.com/dns-query#h3=true
+      - https://dns.google/dns-query#h3=true
+    geosite:category-ads-all: rcode://success
+    www.baidu.com,+.google.cn:
+      - 223.5.5.5
+      - https://dns.alidns.com/dns-query
+  nameserver:
+    - 114.114.114.114
+    - 8.8.8.8
+    - tls://223.5.5.5:853
+    - https://doh.pub/dns-query
+    - https://dns.alidns.com/dns-query#h3=true
+    - https://mozilla.cloudflare-dns.com/dns-query#DNS&h3=true
+    - dhcp://en0
+    - quic://dns.adguard.com:784
+  proxy-server-nameserver:
+    - quic://223.5.5.5:853
+    - https://dns.alidns.com/dns-query#h3=true
+    - https://doh.pub/dns-query#h3=true
+  direct-nameserver:
+    - quic://223.5.5.5:853
+    - quic://223.6.6.6:853
+    - system
+  direct-nameserver-follow-policy: true
+  fallback:
+    - https://1.1.1.1/dns-query#h3=true
+    - https://1.0.0.1/dns-query#h3=true
+    - https://8.8.8.8/dns-query#h3=true
+    - https://8.8.4.4/dns-query#h3=true
+    - tls://8.8.4.4
+    - tls://1.1.1.1
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+      - 0.0.0.0/32
+      - 223.75.236.241/32
+      - 182.43.124.6/32
+      - 106.74.25.198/32
+      - 183.192.65.101/32
+    domain:
+      - +.google.com
+      - +.youtube.com
+      - +.twitter.com
+      - +.x.com
+      - +.reddit.com
+      - +.telegram.org
+      - +.instagram.com
+      - +.facebook.com
+      - +.jsdelivr.net
+      - +.proton.me
+      - +.chatgpt.com
+      - +.openai.com
+      - +.grok.com
+rule-providers:
+  alipay:
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AliPay/AliPay.yaml
+    path: ./ruleset/alipay.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  extra-direct:
+    url: https://testingcf.jsdelivr.net/gh/sinspired/proxy-rules@main/extra-rules/mihomo/direct.list
+    path: ./ruleset/extra-direct.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  apple-intelligence:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-apple-intelligence.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/apple-intelligence.mrs
+    path-in-bundle: geo/geosite/apple-intelligence.mrs
+  apple-tvplus:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-apple-tvplus.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/apple-tvplus.mrs
+    path-in-bundle: geo/geosite/apple-tvplus.mrs
+  youku-intl:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-youku-intl.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/youku@!cn.mrs
+    path-in-bundle: geo/geosite/youku@!cn.mrs
+  tencent-intl:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-tencent-intl.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/tencent@!cn.mrs
+    path-in-bundle: geo/geosite/tencent@!cn.mrs
+  iqiyi-intl:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-iqiyi-intl.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/iqiyi@!cn.mrs
+    path-in-bundle: geo/geosite/iqiyi@!cn.mrs
+  anthropic:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-anthropic.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/anthropic.mrs
+    path-in-bundle: geo/geosite/anthropic.mrs
+  openai:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-openai.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/openai.mrs
+    path-in-bundle: geo/geosite/openai.mrs
+  google-gemini:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-google-gemini.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google-gemini.mrs
+    path-in-bundle: geo/geosite/google-gemini.mrs
+  copilot:
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-bing.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/bing.mrs
+    path-in-bundle: geo/geosite/bing.mrs
+  twitter:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-twitter.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/twitter.mrs
+    path-in-bundle: geo/geosite/twitter.mrs
+  tiktok:
+    behavior: domain
+    interval: 86400
+    path: ./rule-set/geosite-tiktok.mrs
+    type: http
+    format: mrs
+    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/tiktok.mrs
+    path-in-bundle: geo/geosite/tiktok.mrs
+proxy-groups:
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png
+    include-all: false
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - AI
+      - Cloudflare
+      - MANUAL
+      - HK-AUTO
+      - JP-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - US-AUTO
+      - DIRECT
+    max-failed-times: 3
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Available.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: MANUAL
+    type: select
+    proxies:
+      - AUTO
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
+    name: AI
+    type: fallback
+    proxies:
+      - AI-AUTO
+      - OpenAI
+      - Claude
+      - Gemini
+      - Copilot
+      - Cloudflare
+      - MANUAL
+    max-failed-times: 2
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png
+    name: OpenAI
+    type: fallback
+    proxies:
+      - OpenAI-AUTO
+      - Cloudflare
+      - MANUAL
+    max-failed-times: 2
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+  - icon: https://testingcf.jsdelivr.net/gh/sinspired/proxy-rules@main/ico/Claude.png
+    name: Claude
+    type: select
+    proxies:
+      - OpenAI-AUTO
+      - Cloudflare
+      - MANUAL
+    max-failed-times: 2
+  - icon: https://testingcf.jsdelivr.net/gh/sinspired/proxy-rules@main/ico/Gemini.png
+    name: Gemini
+    type: select
+    proxies:
+      - Gemini-AUTO
+      - Cloudflare
+      - MANUAL
+    max-failed-times: 2
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Copilot.png
+    name: Copilot
+    type: fallback
+    proxies:
+      - Copilot-AUTO
+      - Cloudflare
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Bing.png
+    name: Bing
+    type: select
+    proxies:
+      - Copilot
+      - DIRECT
+      - PROXY
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Google.png
+    name: Google
+    type: fallback
+    proxies:
+      - PROXY
+      - Gemini
+      - YouTube
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
+    name: YouTube
+    type: fallback
+    proxies:
+      - YouTube-AUTO
+      - Gemini
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+    url: https://www.gstatic.com/generate_204
+    interval: 300
+  - icon: https://github.com/shindgewongxj/WHATSINStash/raw/main/icon/x.png
+    name: Twitter
+    type: fallback
+    proxies:
+      - Cloudflare
+      - AI
+      - OpenAI
+      - PROXY
+      - MANUAL
+      - AUTO
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Cloudflare.png
+    name: Cloudflare
+    type: fallback
+    proxies:
+      - CF-AUTO
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+    url: https://cp.cloudflare.com/generate_204
+    interval: 300
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/TikTok.png
+    include-all: false
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: TikTok
+    type: select
+    proxies:
+      - TK-US-AUTO
+      - TK-JP-AUTO
+      - TK-VN-AUTO
+      - TK-SG-AUTO
+      - TK-TW-AUTO
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/sinspired/proxy-rules@main/ico/Spotify.png
+    name: Spotify
+    type: select
+    proxies:
+      - US-AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - PROXY
+      - AUTO
+      - DIRECT
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png
+    name: Telegram
+    type: fallback
+    proxies:
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Netflix.png
+    name: Netflix
+    type: select
+    proxies:
+      - Netflix-AUTO
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Disney.png
+    name: Disney
+    type: select
+    proxies:
+      - Disney-AUTO
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
+    name: Apple
+    type: select
+    proxies:
+      - DIRECT
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple.png
+    name: Apple-Intl
+    type: select
+    proxies:
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+      - DIRECT
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/ForeignMedia.png
+    name: Media-Intl
+    type: select
+    proxies:
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+      - DIRECT
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Heart.png
+    name: Adult
+    type: select
+    proxies:
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+      - DIRECT
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/China.png
+    name: CN
+    type: select
+    proxies:
+      - DIRECT
+      - AI
+      - PROXY
+      - MANUAL
+      - AUTO
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
+    name: FINAL
+    type: select
+    proxies:
+      - PROXY
+      - Cloudflare
+      - AUTO
+      - HK-AUTO
+      - JP-AUTO
+      - US-AUTO
+      - TW-AUTO
+      - SG-AUTO
+      - MANUAL
+      - DIRECT
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Auto.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|⁻|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://cp.cloudflare.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bOpenai\b|openai|chatgpt|gpt|GPT)(?=.*\bGemini\b|gemini|GEMINI|\bGM\b)
+    name: AI-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://cp.cloudflare.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bOpenai\b|openai|chatgpt|gpt|GPT)
+    name: OpenAI-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://cp.cloudflare.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/sinspired/proxy-rules@main/ico/Gemini.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bGemini\b|gemini|GEMINI|\bGM\b)
+    name: Gemini-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Copilot.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bCopilot\b|copilot|\bCP\b)
+    name: Copilot-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://cp.cloudflare.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Cloudflare.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|⁻|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bX\b|twitter)
+    name: CF-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://cp.cloudflare.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bYoutube\b|youtube|YT|YouTube|流媒体)
+    name: YouTube-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bNetflix\b|netflix|NF)
+    name: Netflix-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Disney.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)(?=.*\bDisney\b|disney|D+)
+    name: Disney-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: false
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)^(?=.*TK|tiktok)(?=.*(?:(?:^|[^-])US|TK-US))
+    name: TK-US-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)^(?=.*TK|tiktok)(?=.*(?:(?:^|[^-])JP|TK-JP))
+    name: TK-JP-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)^(?=.*TK|tiktok)(?=.*(?:(?:^|[^-])VN|TK-VN))
+    name: TK-VN-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)^(?=.*TK|tiktok)(?=.*(?:(?:^|[^-])SG|TK-SG))
+    name: TK-SG-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
+    include-all: true
+    exclude-filter: (?i)Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?i)^(?=.*TK|tiktok)(?=.*(?:(?:^|[^-])TW|TK-TW))
+    name: TK-TW-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:HK(?!⁻)|香港|港|Hong\s?Kong)\b
+    name: HK-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:US(?!⁻)|美国|美|American)\b
+    name: US-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/TW.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:TW(?!⁻)|台湾|台|tai)\b
+    name: TW-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:SG(?!⁻)|新加坡|新|sin)\b
+    name: SG-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:JP(?!⁻)|日本|日|JAPAN)\b
+    name: JP-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+  - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/KR.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: (?<!-)\b(?:KR(?!⁻)|韩国|韩|首尔)\b
+    name: KR-AUTO
+    type: url-test
+    interval: 600
+    tolerance: 100
+    url: https://www.gstatic.com/generate_204
+    lazy: true
+    max-failed-times: 3
+    expected-status: 204
+rules:
+  - GEOSITE,private,DIRECT
+  - GEOIP,private,DIRECT
+  - GEOSITE,category-ads-all,REJECT
+  - RULE-SET,apple-intelligence,Apple-Intl
+  - RULE-SET,apple-tvplus,Apple-Intl
+  - RULE-SET,youku-intl,Media-Intl
+  - RULE-SET,tencent-intl,Media-Intl
+  - RULE-SET,iqiyi-intl,Media-Intl
+  - GEOSITE,biliintl,Media-Intl
+  - GEOSITE,apple-cn,CN
+  - GEOSITE,apple,Apple
+  - RULE-SET,alipay,CN
+  - RULE-SET,extra-direct,CN
+  - RULE-SET,anthropic,Claude
+  - RULE-SET,openai,OpenAI
+  - RULE-SET,google-gemini,Gemini
+  - RULE-SET,copilot,Copilot
+  - RULE-SET,bing,Bing
+  - RULE-SET,twitter,Twitter
+  - GEOSITE,category-ai-!cn,AI
+  - GEOSITE,telegram,Telegram
+  - GEOSITE,spotify,Spotify
+  - GEOSITE,netflix,Netflix
+  - GEOSITE,tiktok,TikTok
+  - GEOSITE,youtube,YouTube
+  - GEOSITE,google,Google
+  - GEOSITE,disney,Disney
+  - GEOSITE,cloudflare,Cloudflare
+  - GEOSITE,github,PROXY
+  - GEOSITE,category-porn,Adult
+  - GEOSITE,cn,DIRECT
+  - GEOIP,twitter,Twitter
+  - GEOIP,telegram,Telegram
+  - GEOIP,spotify,Spotify
+  - GEOIP,google,Google
+  - GEOIP,cloudflare,Cloudflare
+  - GEOIP,cn,DIRECT
+  - MATCH,FINAL
